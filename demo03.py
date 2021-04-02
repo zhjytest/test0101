@@ -1,2 +1,4 @@
 print("==================")
-pirnt("jfkdskfdskfl")
+print("xccxcxc")
+print("sfkjdsfjkdsjflkdsjflksdjlk")
+print("xccxcxc")
